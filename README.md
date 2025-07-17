@@ -1,9 +1,12 @@
 # Cryptornor - Advanced File Cryptor 2025
 
+<img width="1497" height="1394" alt="cryptor" src="https://github.com/user-attachments/assets/7e007827-2fb3-4e27-9a8e-aeda0a153e05" />
 
 До Крипти https://www.virustotal.com/gui/file/f619d0f5966cfb99a50d9ecf1b15cfe42f70420fa110b1a0db490874b9255483?nocache=1
 После https://www.virustotal.com/gui/file/e323164cb18ff7154df7a1259c4b44286f0ace3f588ba39d63da9a777ba81be1?nocache=1
 
+<img width="2535" height="1315" alt="done2" src="https://github.com/user-attachments/assets/4cd1578a-c2a4-405a-af73-9c3e4c256979" />
+<img width="2502" height="1265" alt="done" src="https://github.com/user-attachments/assets/29550ab7-198f-4dcd-bb25-e28652859505" />
 
 🚀 **Современный криптор для .NET и нативных файлов с in-memory execution**
 
