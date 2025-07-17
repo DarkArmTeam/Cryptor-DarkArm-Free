@@ -3,6 +3,8 @@
 
 До Крипти https://www.virustotal.com/gui/file/f619d0f5966cfb99a50d9ecf1b15cfe42f70420fa110b1a0db490874b9255483?nocache=1
 После https://www.virustotal.com/gui/file/e323164cb18ff7154df7a1259c4b44286f0ace3f588ba39d63da9a777ba81be1?nocache=1
+
+
 🚀 **Современный криптор для .NET и нативных файлов с in-memory execution**
 
 ## 🎯 Особенности
