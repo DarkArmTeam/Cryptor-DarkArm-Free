@@ -1,0 +1,11 @@
+[2025-07-09 02:04:23] run_payload: start
+[2025-07-09 02:04:23] run_payload: anti-analysis passed
+[2025-07-09 02:04:23] aes_gcm_decrypt_payload: start
+[2025-07-09 02:04:23] aes_gcm_decrypt_payload: simple XOR decrypted
+[2025-07-09 02:04:23] run_payload: payload decrypted
+[2025-07-09 02:04:23] reflective_load_pe: start
+[2025-07-09 02:04:23] reflective_load_pe: memory allocated
+[2025-07-09 02:04:23] reflective_load_pe: sections copied
+[2025-07-09 02:04:23] reflective_load_pe: relocations processed
+[2025-07-09 02:04:23] reflective_load_pe: imports resolved
+[2025-07-09 02:04:23] reflective_load_pe: calling entry point
